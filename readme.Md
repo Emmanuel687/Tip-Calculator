@@ -27,13 +27,13 @@ npm start
 4.A user can see the total bill plus tip.
 
 # Learning Objective
-1.Managing and Tracking State with a component.
+1.Managing and Tracking State within a components.
 
 2.Lifting up state from children to parent component.
 
 3.Using events in react, onClick and onChange.
 
-4.The && operator in Use
+4.The && operator in Use.
 
 5.Resetting State in React.
 
