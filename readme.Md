@@ -16,7 +16,7 @@ npm start
 4.This will start the app in development mode. You can then open the app in your browser at http://localhost:3000.
 
 # Images
-
+![Alt text](mytip.jpg)
 # Features
 1.A user can input his/her bill
 
