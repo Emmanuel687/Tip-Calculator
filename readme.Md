@@ -1,5 +1,5 @@
 # Tip Calculator App
-This is a simple tip calculator app built in React. It uses React state to store and track the State. Users input their bills and have option input to select how satsified they are with the service, Upon that they can see the total bills calculated.Main practise case is Statemanagement.  
+This is a simple tip calculator app built in React. It uses React state to store and track the State. Users input their bills and have option input to select how satsified they are with the service, Upon that they can see the total bills calculated.Main practise case is Statemanagement
 
 # Getting Started
 1.To run the app, you will need to have Node.js and NPM installed. 
